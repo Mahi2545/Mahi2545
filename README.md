@@ -4,7 +4,7 @@
 
 🔭 **Recent Projects:**  
 - [House Price Prediction](https://github.com/Mahi2545/House-price-prediction) | ML, Feature Engineering  
-- [Retail Analytics](https://github.com/maheshnick619/retail-strategy-analysis) | EDA, Customer Segmentation  
+- [Retail Analytics](https://github.com/Mahi2545/Customer-churn) | EDA, Customer Segmentation  
 
 🌱 **Learning:** Data Science, Cloud (AWS)  
 
