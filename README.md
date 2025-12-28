@@ -13,7 +13,7 @@
 ### **Languages & Databases**
 - **Python** - Pandas, NumPy, Scikit-learn, Scikit-Learn, SQLAlchemy
 - **SQL** - Query optimization, ETL, database design
-- **Regex** - Pattern matching & text processing
+- **Regex** - Pattern matching, EDA & text processing
 
 ### **Data & BI Tools**
 - **Power BI** - DAX, Semantic Models, Interactive Dashboards
